@@ -31,7 +31,14 @@ header {
     font-size: 7.3em;
 }
 
-header a{
+header a {
+  color: white;
+}
+header a:visited {
+  color: white;
+}
+
+header a.box{
     font-weight: 700;
     display:inline-block;
     text-decoration: none;
@@ -43,7 +50,7 @@ header a{
     color: white;
 }
 
-header a:hover{
+header a.box:hover{
     background-color: rgba(183, 183, 183, 0.33);
 }
 
