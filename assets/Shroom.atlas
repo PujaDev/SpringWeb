@@ -1,0 +1,104 @@
+
+Shroom.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sback_arm
+  rotate: true
+  xy: 444, 827
+  size: 91, 254
+  orig: 91, 254
+  offset: 0, 0
+  index: -1
+Sback_cap
+  rotate: true
+  xy: 2, 143
+  size: 232, 166
+  orig: 232, 166
+  offset: 0, 0
+  index: -1
+Sback_cap_np
+  rotate: false
+  xy: 197, 663
+  size: 232, 166
+  orig: 232, 166
+  offset: 0, 0
+  index: -1
+Sback_leg
+  rotate: true
+  xy: 431, 726
+  size: 99, 251
+  orig: 99, 251
+  offset: 0, 0
+  index: -1
+Scap
+  rotate: true
+  xy: 2, 377
+  size: 245, 181
+  orig: 245, 181
+  offset: 0, 0
+  index: -1
+Scap_np
+  rotate: false
+  xy: 197, 831
+  size: 245, 181
+  orig: 245, 181
+  offset: 0, 0
+  index: -1
+Sdress
+  rotate: false
+  xy: 2, 624
+  size: 193, 388
+  orig: 193, 388
+  offset: 0, 0
+  index: -1
+Seyes
+  rotate: false
+  xy: 868, 893
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Sface
+  rotate: true
+  xy: 700, 829
+  size: 82, 166
+  orig: 82, 166
+  offset: 0, 0
+  index: -1
+Sfront_arm
+  rotate: true
+  xy: 444, 920
+  size: 92, 268
+  orig: 92, 268
+  offset: 0, 0
+  index: -1
+Sfront_leg
+  rotate: true
+  xy: 714, 913
+  size: 99, 261
+  orig: 99, 261
+  offset: 0, 0
+  index: -1
+Ssmall_caps
+  rotate: false
+  xy: 2, 9
+  size: 155, 132
+  orig: 155, 132
+  offset: 0, 0
+  index: -1
+Ssmall_caps_np
+  rotate: false
+  xy: 431, 592
+  size: 155, 132
+  orig: 155, 132
+  offset: 0, 0
+  index: -1
+money
+  rotate: true
+  xy: 977, 966
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
