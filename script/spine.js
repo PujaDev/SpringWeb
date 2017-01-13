@@ -12,7 +12,7 @@ function init() {
       spineName: 'Anna_side',
       animation: 'walk',
       skin: 'clothes_1',
-      speed: 1
+      speed: 0.75
     },
     {
       name: 'huba',
@@ -20,7 +20,7 @@ function init() {
       spineName: 'Shroom',
       animation: 'walk',
       skin: 'Poisonous',
-      speed: 1
+      speed: 2
     }
   ];
 
