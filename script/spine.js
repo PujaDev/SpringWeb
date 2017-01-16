@@ -20,7 +20,7 @@ function init() {
       spineName: 'Shroom',
       animation: 'walk',
       skin: 'Poisonous',
-      speed: 2
+      speed: 1
     }
   ];
 
